@@ -1,0 +1,5 @@
+So far the content is consice and very informative.
+There was some problems on he sliceY property which prevented the sprite from animating.
+It might be better to split the function declaration and the example usage, so it's easier to differentiate between them.
+
+I think the range provided for the main and running anims are also wrong, but I'm not sure as I haven't checked them yet.

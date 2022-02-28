@@ -1,0 +1,1 @@
+birdy dies when colliding with roof
